@@ -72,8 +72,12 @@ float : left;
 </style>
 
 
-	
+	<html>
 
+<head>
+<title>Forum Page</title>
+</head>
+<body>
 
 
 	<nav class="navbar navbar-default">

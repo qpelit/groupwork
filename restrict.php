@@ -1,4 +1,5 @@
 <?php
+
 	//we need functions for dealing with session
 	require_once("functions.php");
 	require_once("header.php"); 
